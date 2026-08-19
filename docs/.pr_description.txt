@@ -1,0 +1,9 @@
+Create README as central hub for OctoAcme process docs
+
+This pull request adds docs/README.md to serve as the central entry point for OctoAcme's project management process documentation. The README contains:
+
+- A concise overview of OctoAcme's project management lifecycle and key principles
+- A 3–4 paragraph summary of core workflows, communication strategies, personas/roles, and QA practices
+- An index linking to all existing process documents in the docs/ folder for quick navigation
+
+Closes #2
